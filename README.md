@@ -1,8 +1,14 @@
 # MyProject
 
-This is a simple HTML project created by Amitangrman.
+Welcome to my first GitHub project! This is a simple HTML project hosted using GitHub Pages.
 
-## Technologies
-- HTML
-- Git
-- GitHub
+## 🌐 Live Website
+👉 [Visit Site](https://amitangrman.github.io/MyProject/)
+
+## 📁 Project Structure
+- index.html → Main HTML file
+- style.css (if added) → For styling
+- script.js (if added) → For JavaScript logic
+
+## ✍️ Author
+**Amitangrman**
